@@ -16,7 +16,7 @@
 I have tried to implement 3 Strategies <br>
  a). SimpleMovingAverage <br> 
  b). Exponential Moving Average <br>
- c). Multi EMA strategy to catch hold of periods when trends reverse <br>
+ c). Multi EMA strategy to catch hold of periods when trends reverse <br> (If we are able to catch the beginning of a valley we might be able to make big profits)
 
  Below is the explanantion of the three in order:
 
